@@ -11,7 +11,7 @@ d3.text("../data/CTOexport.csv", function(data) {
 	    // do stuff here
 	
 	console.log("il mio csv:");	
-	console.log(data);	
+	console.log(input[1]);	
 		
 		
 });
